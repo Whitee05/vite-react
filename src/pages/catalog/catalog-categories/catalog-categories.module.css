@@ -1,0 +1,11 @@
+.catalog_content {
+    display: flex;
+    justify-content: space-between;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.categories_name {
+    font-size: 30px;
+
+}

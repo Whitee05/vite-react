@@ -1,0 +1,49 @@
+.wrapper {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1220px;
+    margin: 0 auto;
+    background-color: rgb(109, 109, 204);
+    border-radius: 50px;
+    
+    
+}
+
+.wrapper ul {
+    display: flex;
+    gap: 25px;
+    list-style: none;
+}
+
+.link {
+    font-size: 35px;
+  
+    text-decoration: none;
+    color: white;
+}
+
+.link:hover {
+    text-decoration: underline;
+    
+}
+
+.photo{
+    width: 130px;
+    border-radius: 50%;
+
+}
+
+body{
+  background-color: black;
+  color: white;
+  
+  
+}
+  
+
+
+
+
+ 

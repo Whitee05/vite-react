@@ -1,0 +1,39 @@
+.firstName{
+    color: blue;
+}
+
+.video_content {
+    width: 100%;
+    margin: 50px auto;
+  }
+
+  video {
+    max-width: 1440px;
+    width: 1000px;
+    display: flex;
+    margin: auto;
+    border: double 5px #fff;
+}
+
+.text_content {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+h1{
+    text-align: center;
+    margin:0 auto;
+    padding-top: 30px;
+    color:#fff;
+    font-size: 40px;
+}
+
+
+._wrapper_w_1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+ 
